@@ -18,7 +18,7 @@ This repository contains my professional resume and supporting portfolio materia
 - Product Thinking
 
 ### Resume
-📄 [Resume.pdf](https://2be610f5-1eca-4255-96d9-ac53c049604f.usrfiles.com/ugd/2be610_87b56485e95c4f229a1475f4cf97a0bd.pdf)
+📄 [Resume.pdf](https://2be610f5-1eca-4255-96d9-ac53c049604f.usrfiles.com/ugd/2be610_eaccc1b49d514130b92639104698271e.pdf)
 
 ### Portfolio
 🌐 [myportfolio.com](https://jeniferszwejbka.com/)
