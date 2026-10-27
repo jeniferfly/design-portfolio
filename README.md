@@ -18,10 +18,16 @@ This repository contains my professional resume and supporting portfolio materia
 - Product Thinking
 
 ### Resume
-📄 [Resume.pdf](https://2be610f5-1eca-4255-96d9-ac53c049604f.usrfiles.com/ugd/2be610_eaccc1b49d514130b92639104698271e.pdf)
+📄 [Resume.pdf](https://tinyurl.com/js-resume-2026)
 
-### Portfolio
-🌐 [myportfolio.com](https://jeniferszwejbka.com/)
+### Design Portfolio
+🎨 [Graphic Design Portfolio](https://tinyurl.com/2026-js-portfolio)
+
+### Interactive Portfolio
+🧩 [Interactive Design Portfolio](https://tinyurl.com/interactive-portfolio-js)
+
+### Website
+🌐 [Website](https://jeniferszwejbka.com/)
 
 ### Connect
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20">
