@@ -30,8 +30,8 @@ This repository contains my professional resume and supporting portfolio materia
 🧠 [AI Design & Creative Technology Case Study](https://tinyurl.com/ai-case-study-2026)
 
 ### Website
-🌐 [Website](https://jeniferszwejbka.com/)
+🌐 [Personal Website](https://jeniferszwejbka.com/)
 
 ### Connect
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20">
-LinkedIn](https:www.linkedin.com/in/jeniferx/)
+LinkedIn](https://www.linkedin.com/in/jeniferx/)
