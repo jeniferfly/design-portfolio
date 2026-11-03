@@ -26,6 +26,9 @@ This repository contains my professional resume and supporting portfolio materia
 ### Interactive Portfolio
 🧩 [Interactive Design Portfolio](https://tinyurl.com/interactive-portfolio-js)
 
+### Featured Case Study
+🧠 [AI Design & Creative Technology Case Study](https://tinyurl.com/ai-case-study-2026)
+
 ### Website
 🌐 [Website](https://jeniferszwejbka.com/)
 
