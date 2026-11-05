@@ -34,5 +34,5 @@ This repository contains my professional resume and supporting portfolio materia
 🌐 [Personal Website](https://jeniferszwejbka.com/)
 
 ### Connect
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"> 
-&nbsp;[LinkedIn Profile](https://www.linkedin.com/in/jeniferx/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20">
+&nbsp;LinkedIn Profile](https://www.linkedin.com/in/jeniferx/)
