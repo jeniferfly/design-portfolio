@@ -27,12 +27,12 @@ This repository contains my professional resume and supporting portfolio materia
 🧩 [Interactive Design Portfolio](https://tinyurl.com/interactive-portfolio-js)
 
 ### Featured Case Studies
-🧠 [AI Design & Creative Technology — Case Study](https://tinyurl.com/ai-case-study-2026) <br>
-🎨 [Pinterest Internal Brand System — Case Study](https://tinyurl.com/internal-brand-case-study)
+🧠 [AI Design & Creative Technology](https://tinyurl.com/ai-case-study-2026) <br>
+🎨 [Pinterest Internal Brand System](https://tinyurl.com/internal-brand-case-study)
 
 ### Website
 🌐 [Personal Website](https://jeniferszwejbka.com/)
 
 ### Connect
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20">
-&nbsp;LinkedIn Profile](https://www.linkedin.com/in/jeniferx/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20">
+&nbsp;[LinkedIn Profile](https://www.linkedin.com/in/jeniferx/)
