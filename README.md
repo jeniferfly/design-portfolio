@@ -27,7 +27,7 @@ This repository contains my professional resume and supporting portfolio materia
 🧩 [Interactive Design Portfolio](https://tinyurl.com/interactive-portfolio-js)
 
 ### Featured Case Studies
-🧠 [AI Design & Creative Technology](https://tinyurl.com/ai-case-study-2026) <br>
+🧠 [AI Design & Creative Technology](https://tinyurl.com/2026-ai-case-study) <br>
 🎨 [Pinterest Internal Brand System](https://tinyurl.com/internal-brand-case-study)
 
 ### Website
