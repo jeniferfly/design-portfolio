@@ -35,5 +35,5 @@ This repository contains my professional resume and supporting portfolio materia
 
 ### Connect
 <a href="https://www.linkedin.com/in/jeniferx/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" 
-alt="LinkedIn"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jeniferx/">LinkedIn Profile</a>
+alt="LinkedIn"></a>&nbsp;<a href="https://www.linkedin.com/in/jeniferx/">LinkedIn Profile</a>
   
