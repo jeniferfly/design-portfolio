@@ -30,11 +30,14 @@ This repository contains my professional resume and supporting portfolio materia
 🧠 [AI Design & Creative Technology](https://tinyurl.com/ai-case-study-link) <br>
 🎨 [Pinterest Internal Brand System](https://tinyurl.com/internal-brand-case-study)
 
+### Brand Strategy
+🎯 [Sugar Bowl — Brand Strategy](https://tinyurl.com/sugar-bowl-brand-strategy)
+
 ### Website
 🌐 [Personal Website](https://jeniferszwejbka.com/) 
 
 ### Certifications
-🏅 [Google AI Fundamentals](https://www.credly.com/go/SzW4oZ09) <br>
+🏅 [Google AI Fundamentals](https://www.credly.com/go/SzW4oZ09)
 
 ## Get in Touch
 
