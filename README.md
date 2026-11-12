@@ -17,7 +17,6 @@ This repository contains my professional resume and supporting portfolio materia
 - Product Thinking
 - UX/UI
 
-<br>
 ### Resume
 📋 [Resume.pdf](https://tinyurl.com/js-resume-2026)
 
@@ -38,7 +37,6 @@ This repository contains my professional resume and supporting portfolio materia
 <a href="https://www.linkedin.com/in/jeniferx/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" 
 alt="LinkedIn"></a>&nbsp;<a href="https://www.linkedin.com/in/jeniferx/">LinkedIn Profile</a>
 
-<br>
 ## Get in Touch
 
 Interested in learning more about my work or connecting about a creative opportunity?<br> 
