@@ -1,4 +1,4 @@
-# Resume & Portfolio
+# Design Portfolio
 
 This repository contains my professional resume and supporting portfolio materials.
 
@@ -33,13 +33,12 @@ This repository contains my professional resume and supporting portfolio materia
 ### Website
 🌐 [Personal Website](https://jeniferszwejbka.com/)
 
-### Connect
-<a href="https://www.linkedin.com/in/jeniferx/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" 
-alt="LinkedIn"></a>&nbsp;<a href="https://www.linkedin.com/in/jeniferx/">LinkedIn Profile</a>
-
+<p></p>
 ## Get in Touch
 
 Interested in learning more about my work or connecting about a creative opportunity?<br> 
 I'd love to hear from you!
 
-✉️ [jszwejbka@gmail.com](mailto:jszwejbka@gmail.com)
+✉️ [jszwejbka@gmail.com](mailto:jszwejbka@gmail.com) <br>
+<a href="https://www.linkedin.com/in/jeniferx/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" 
+alt="LinkedIn"></a>&nbsp;<a href="https://www.linkedin.com/in/jeniferx/">LinkedIn Profile</a>
