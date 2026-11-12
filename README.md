@@ -33,6 +33,9 @@ This repository contains my professional resume and supporting portfolio materia
 ### Website
 🌐 [Personal Website](https://jeniferszwejbka.com/) <br>
 
+### 🏅 Certifications
+
+[Google AI Fundamentals — View Verified Credential](https://www.credly.com/go/SzW4oZ09) <br>
 
 ## Get in Touch
 
