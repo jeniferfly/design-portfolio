@@ -31,11 +31,10 @@ This repository contains my professional resume and supporting portfolio materia
 🎨 [Pinterest Internal Brand System](https://tinyurl.com/internal-brand-case-study)
 
 ### Website
-🌐 [Personal Website](https://jeniferszwejbka.com/) <br>
+🌐 [Personal Website](https://jeniferszwejbka.com/) 
 
-### 🏅 Certifications
-
-[Google AI Fundamentals — View Verified Credential](https://www.credly.com/go/SzW4oZ09) <br>
+### Certifications
+🏅 [Google AI Fundamentals — View Verified Credential](https://www.credly.com/go/SzW4oZ09) <br>
 
 ## Get in Touch
 
