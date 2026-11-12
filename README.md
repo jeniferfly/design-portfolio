@@ -31,9 +31,9 @@ This repository contains my professional resume and supporting portfolio materia
 🎨 [Pinterest Internal Brand System](https://tinyurl.com/internal-brand-case-study)
 
 ### Website
-🌐 [Personal Website](https://jeniferszwejbka.com/)
+🌐 [Personal Website](https://jeniferszwejbka.com/) <br>
 
-<p></p>
+
 ## Get in Touch
 
 Interested in learning more about my work or connecting about a creative opportunity?<br> 
