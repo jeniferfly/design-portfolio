@@ -31,7 +31,7 @@ This repository contains my professional resume and supporting portfolio materia
 🎨 [Pinterest Internal Brand System](https://tinyurl.com/internal-brand-case-study)
 
 ### Brand Strategy
-🎯 [Sugar Bowl Ski Resort](https://tinyurl.com/sugar-bowl-brand-strategy)
+🎯 [Sugar Bowl Ski Resort](https://brand-strategy-showcase.netlify.app/)
 
 ### Website
 🌐 [Personal Website](https://jeniferszwejbka.com/) 
