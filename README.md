@@ -18,7 +18,7 @@ This repository contains my professional resume and supporting portfolio materia
 - UX/UI
 
 ### Resume
-📋 [Resume.pdf](https://tinyurl.com/js-resume-2026)
+📋 [Resume.pdf](https://design-resume-gallery.netlify.app/)
 
 ### Design Portfolio
 🖌️ [Graphic Design Portfolio](https://tinyurl.com/2026-js-portfolio)
