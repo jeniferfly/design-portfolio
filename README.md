@@ -29,7 +29,7 @@ This repository contains my professional resume and supporting portfolio materia
 ### Featured Case Studies
 🧠 [AI Design & Creative Technology](https://tinyurl.com/ai-case-study-link) <br>
 🎨 [Pinterest Internal Brand System](https://tinyurl.com/internal-brand-case-study) <br>
-📌 [Pinterest Ads Manager — End-to-End Design](https://ads-manager-gallery.netlify.app/)
+📌 [Pinterest Ads Manager Design](https://ads-manager-gallery.netlify.app/)
 
 ### Brand Strategy
 🎯 [Sugar Bowl Ski Resort](https://brand-strategy-showcase.netlify.app/)
