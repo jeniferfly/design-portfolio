@@ -27,8 +27,8 @@ This repository contains my professional resume and supporting portfolio materia
 🧩 [Interactive Design Portfolio](https://interactive-design-gallery.netlify.app/)
 
 ### Featured Case Studies
-🧠 [AI Design & Creative Technology](https://tinyurl.com/ai-case-study-link) <br>
-🎨 [Pinterest Internal Brand System](https://tinyurl.com/internal-brand-case-study) <br>
+🧠 [AI Design & Creative Technology](https://ai-assisted-interactive.netlify.app/) <br>
+🎨 [Pinterest Internal Brand System](https://design-case-study.netlify.app/) <br>
 📌 [Pinterest Ads Manager Design](https://ads-manager-gallery.netlify.app/)
 
 ### Brand Strategy
