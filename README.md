@@ -21,7 +21,7 @@ This repository contains my professional resume and supporting portfolio materia
 📋 [Resume.pdf](https://design-resume-gallery.netlify.app/)
 
 ### Design Portfolio
-🖌️ [Graphic Design Portfolio](https://tinyurl.com/2026-js-portfolio)
+🖌️ [Graphic Design Portfolio](https://creative-design-gallery.netlify.app/)
 
 ### Interactive Portfolio
 🧩 [Interactive Design Portfolio](https://tinyurl.com/interactive-portfolio-js)
