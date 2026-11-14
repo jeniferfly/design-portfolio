@@ -24,7 +24,7 @@ This repository contains my professional resume and supporting portfolio materia
 🖌️ [Graphic Design Portfolio](https://creative-design-gallery.netlify.app/)
 
 ### Interactive Portfolio
-🧩 [Interactive Design Portfolio](https://tinyurl.com/interactive-portfolio-js)
+🧩 [Interactive Design Portfolio](https://interactive-design-gallery.netlify.app/)
 
 ### Featured Case Studies
 🧠 [AI Design & Creative Technology](https://tinyurl.com/ai-case-study-link) <br>
