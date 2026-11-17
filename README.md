@@ -26,12 +26,14 @@ This repository contains my professional resume and supporting portfolio materia
 ### Interactive Portfolio
 🧩 [Interactive Design Portfolio](https://interactive-design-gallery.netlify.app/)
 
+### Notion Graphics Portfolio
+✨ [Motion Graphics Gallery](https://motion-graphics-gallery.netlify.app/) 
+
 ### Featured Case Studies
 🧠 [AI Design & Creative Technology](https://ai-assisted-interactive.netlify.app/) <br>
 🎨 [Pinterest Internal Brand System](https://design-case-study.netlify.app/) <br>
 📌 [Pinterest Ads Manager Design](https://ads-manager-gallery.netlify.app/) <br>
-🎬 [Netflix Prototype Design](https://obiwan-prototype-showcase.netlify.app/) <br>
-✨ [Motion Graphics Gallery](https://motion-graphics-gallery.netlify.app/) 
+🎬 [Netflix Prototype Design](https://obiwan-prototype-showcase.netlify.app/) 
 
 ### Brand Strategy
 🎯 [Sugar Bowl Ski Resort](https://brand-strategy-showcase.netlify.app/)
