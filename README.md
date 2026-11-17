@@ -31,7 +31,7 @@ This repository contains my professional resume and supporting portfolio materia
 ✨ [Motion Graphics Portfolio](https://motion-graphics-gallery.netlify.app/) 
 
 ### Internal Websites Portfolio
-🖥️ [Internal Websites & Employee Experiences](https://internal-website-gallery.netlify.app/)
+🖥️ [Internal Websites Portfolio](https://internal-website-gallery.netlify.app/)
 
 ### Featured Case Studies
 🧠 [AI Design & Creative Technology](https://ai-assisted-interactive.netlify.app/) <br>
