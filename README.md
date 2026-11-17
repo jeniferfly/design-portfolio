@@ -15,6 +15,7 @@ This repository contains my professional resume and supporting portfolio materia
 - Interactive Design
 - AI Workflows
 - Product Thinking
+- Motion Graphics
 - UX/UI
 
 ### Resume
