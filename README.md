@@ -27,7 +27,7 @@ This repository contains my professional resume and supporting portfolio materia
 🧩 [Interactive Design Portfolio](https://interactive-design-gallery.netlify.app/)
 
 ### Notion Graphics Portfolio
-✨ [Motion Graphics Gallery](https://motion-graphics-gallery.netlify.app/) 
+✨ [Motion Graphics portfolio](https://motion-graphics-gallery.netlify.app/) 
 
 ### Featured Case Studies
 🧠 [AI Design & Creative Technology](https://ai-assisted-interactive.netlify.app/) <br>
