@@ -33,6 +33,12 @@ This repository contains my professional resume and supporting portfolio materia
 ### Internal Websites Portfolio
 🖥️ [Internal Websites Portfolio](https://internal-website-gallery.netlify.app/)
 
+### Creative Studio
+🧬 [Creative Experiments & AI Lab](https://creative-studio-gallery.netlify.app/) <br>
+🖍️ [Illustration & Visual Storytelling](https://illustrations-gallery.netlify.app/) <br>
+💎 [Freelance & Independent Design](https://freelance-gallery.netlify.app/) <br>
+📡 [Internal Communications](https://internal-communications.netlify.app/)
+
 ### Featured Case Studies
 🧠 [AI Design & Creative Technology](https://ai-assisted-interactive.netlify.app/) <br>
 🎨 [Pinterest Internal Brand System](https://design-case-study.netlify.app/) <br>
