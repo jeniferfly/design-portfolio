@@ -6,16 +6,19 @@ This repository contains my professional resume and supporting portfolio materia
 
 - Resume
 - Portfolio
-- Case studies
-- Career documents
+- Case Studies
+- Career Documents
 
 ## Areas of Focus
 
 - Design Systems
+- Brand Strategy
 - Interactive Design
+- Illustrations
 - AI Workflows
 - Product Thinking
 - Motion Graphics
+- Prototype Design
 - UX/UI
 
 ### Resume
