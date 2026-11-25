@@ -51,6 +51,9 @@ This repository contains my professional resume and supporting portfolio materia
 ### Brand Strategy
 🎯 [Sugar Bowl Ski Resort](https://brand-strategy-showcase.netlify.app/)
 
+### Creative Projects
+🎮 [ECHO / SHIFT — Game Design & AI Lab](https://echo-shift-experiment.netlify.app/)
+
 ### Website
 🌐 [Personal Website](https://jeniferszwejbka.com/) 
 
